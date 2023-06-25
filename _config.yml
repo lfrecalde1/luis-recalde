@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fercho's Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Luis F Recalde"
 description              : &description "personal description"
