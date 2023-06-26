@@ -34,3 +34,11 @@ Present
 <p style='text-align: justify;'> 
 Equipped with a strong foundation in control theory and a growing expertise in machine learning, I embarked on my doctoral research journey, focusing on developing novel NMPC algorithms that leveraged RL techniques for optimization and decision-making. 
  </p>
+
+ Projects and interest
+======
+* Quadratic Programming
+* Differential Dynamic Programming (DDP)
+* Sequential Linear Quadratic (SLQ) 
+* Continual Learning for Trajectory Tracking
+* Differentiable Model Predictive Control

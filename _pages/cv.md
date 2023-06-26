@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering in Mechatronics at Universidad de las Fuerzas Armadas, 2021
+* M.S. in Control Systems at Universidad Nacional de San Juan 2023
+* Ph.D in Control Systems at Universidad Nacional de San Juan (expected)
 
 Work experience
 ======
@@ -29,12 +29,19 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CasADi
+* Python
+* Matlab
+* C++
+* Pytorch
+* Ros
+* Open CV
+
+Simulators
+======
+* Webots
+* MuJoCo
+
 
 Publications
 ======
@@ -53,7 +60,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
