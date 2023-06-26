@@ -1,0 +1,15 @@
+---
+title: "Optimal control and dynamic compensation of a mobile manipulator robot "
+collection: publications
+permalink: /publication/2021-07-30-Paper-title-number-8
+excerpt: 'This work proposes a controller for tracking trajectories and the ability to keep a desired internal configuration e.g., the handling and transport of objects in industrial field with redundant robots. For this kind of controller, the kinematic and dynamic model was developed considering, the Mobile Manipulator robot is conformed by a manipulator of 4 degrees of freedom (DOF) located on a differential mobile robot and the operating point is located at end-effector. Additionally; the kinematic model is used to developed the controller as optimization problem with restrictions, it was solved using the sequential quadratic programming maintaining the point of interest on the desired trajectory with desired internal configuration. Using the dynamic model this work mitigate velocity errors generated in the system. Moreover, the stability of the proposed controller demonstrated analytically and finally simulation tests are performed using the dynamics of the Akasha mobile manipulator to validate the proposed controller.'
+date: 2021-07-30
+venue: ' The 2nd International Conference on Distributed Sensing and Intelligent Systems'
+paperurl: 'https://ieeexplore.ieee.org/document/9740094'
+citation: 'B. S. Guevara, L. F. Recalde, D. J. Zea and V. H. Andaluz, &quot;Optimal control and dynamic compensation of a mobile manipulator robot,&quot; The 2nd International Conference on Distributed Sensing and Intelligent Systems (ICDSIS 2021), Online Conference, 2021, pp. 72-84, doi: 10.1049/icp.2021.2664.'
+---
+This work proposes a controller for tracking trajectories and the ability to keep a desired internal configuration e.g., the handling and transport of objects in industrial field with redundant robots. For this kind of controller, the kinematic and dynamic model was developed considering, the Mobile Manipulator robot is conformed by a manipulator of 4 degrees of freedom (DOF) located on a differential mobile robot and the operating point is located at end-effector. Additionally; the kinematic model is used to developed the controller as optimization problem with restrictions, it was solved using the sequential quadratic programming maintaining the point of interest on the desired trajectory with desired internal configuration. Using the dynamic model this work mitigate velocity errors generated in the system. Moreover, the stability of the proposed controller demonstrated analytically and finally simulation tests are performed using the dynamics of the Akasha mobile manipulator to validate the proposed controller.
+
+[Download paper here](https://ieeexplore.ieee.org/document/9740094)
+
+Recommended citation: B. S. Guevara, L. F. Recalde, D. J. Zea and V. H. Andaluz, "Optimal control and dynamic compensation of a mobile manipulator robot," The 2nd International Conference on Distributed Sensing and Intelligent Systems (ICDSIS 2021), Online Conference, 2021, pp. 72-84, doi: 10.1049/icp.2021.2664.
