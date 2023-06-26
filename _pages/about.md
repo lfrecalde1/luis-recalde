@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Luis"
+title: "Hello there, I'm Luis F. Recalde"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -42,3 +42,4 @@ Equipped with a strong foundation in control theory and a growing expertise in m
 * Sequential Linear Quadratic (SLQ) 
 * Continual Learning for Trajectory Tracking
 * Differentiable Model Predictive Control
+* Intersection between optimization and Learning

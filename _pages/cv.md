@@ -17,16 +17,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  Research Engineer
+  * Sisau Research Group Universidad Indoamerica
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  Research Engineer
+  * ARSI Research Group Universidad de las Fuerzas Armadas
   
+*  Research Engineer
+  * Escuela Politecnica Superior de Chimborazo
+
 Skills
 ======
 * CasADi
