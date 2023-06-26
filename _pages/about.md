@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style='text-align: justify;'> 
- I am a young engineer and researcher specializing in Nonlinear Model Predictive Control (NMPC) and Reinforcement Learning (RL). The last few years I have ben working in the way to combine control theory and machine learning.
+ I am a young engineer and researcher specializing in Nonlinear Model Predictive Control (NMPC) and Reinforcement Learning (RL). The last few years I have been working in the way to combine control theory and machine learning.
  I became fascinated by the challenges of controlling complex dynamic systems in real-time using optimization techniques.
  </p>
 
