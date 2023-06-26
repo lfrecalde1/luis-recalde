@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Neural Network-Based Self-tuning Kinematic Control and Dynamic Compensation for Mobile Robots"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper proposes a neural network-based self-tuning kinematic controller and dynamic compensation for tracking trajectories, which applied, e.g., in cases where mobile robots are subject to: continuous parametric changes; different trajectories and external disturbances where online gain tuning is a desirable choice. For this kind of controller, the kinematic and dynamic model was developed considering that the mobile robot is confirmed by differential platform, and the operating point is not located at the center of wheel’s axes. The artificial neural network estimates the states of the mobile robot while the gradient descent optimization algorithm adjusts the controller gains that attain the smaller position tracking error, the dynamic model is used to compensate the velocity errors in the robot. Moreover, the stability of the proposed controller is demonstrated analytically. Finally, simulation results are given considering a Turtlebot3 mobile robot, real-time experiments are implemented in the same mobile robot, where the tests are carried out to show the effectiveness of the controller in a real environment.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: ' Proceedings of 10th International Conference on Mechatronics and Control Engineering '
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-1540-6_11'
+citation: 'Recalde, L.F., Guevara, B.S., Zea, D.J., Andaluz, V.H. (2023). Neural Network-Based Self-tuning Kinematic Control and Dynamic Compensation for Mobile Robots. In: Conte, G., Sename, O. (eds) Proceedings of 10th International Conference on Mechatronics and Control Engineering . ICMCE 2021. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-19-1540-6_11'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper proposes a neural network-based self-tuning kinematic controller and dynamic compensation for tracking trajectories, which applied, e.g., in cases where mobile robots are subject to: continuous parametric changes; different trajectories and external disturbances where online gain tuning is a desirable choice. For this kind of controller, the kinematic and dynamic model was developed considering that the mobile robot is confirmed by differential platform, and the operating point is not located at the center of wheel’s axes. The artificial neural network estimates the states of the mobile robot while the gradient descent optimization algorithm adjusts the controller gains that attain the smaller position tracking error, the dynamic model is used to compensate the velocity errors in the robot. Moreover, the stability of the proposed controller is demonstrated analytically. Finally, simulation results are given considering a Turtlebot3 mobile robot, real-time experiments are implemented in the same mobile robot, where the tests are carried out to show the effectiveness of the controller in a real environment.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-981-19-1540-6_11)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Recalde, L.F., Guevara, B.S., Zea, D.J., Andaluz, V.H. (2023). Neural Network-Based Self-tuning Kinematic Control and Dynamic Compensation for Mobile Robots. In: Conte, G., Sename, O. (eds) Proceedings of 10th International Conference on Mechatronics and Control Engineering . ICMCE 2021. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-19-1540-6_11
