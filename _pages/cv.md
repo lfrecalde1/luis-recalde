@@ -18,13 +18,13 @@ Education
 Work experience
 ======
 *  Research Engineer
-  * Sisau Research Group Universidad Indoamerica
+  ** Sisau Research Group Universidad Indoamerica
 
 *  Research Engineer
-  * ARSI Research Group Universidad de las Fuerzas Armadas
+  ** ARSI Research Group Universidad de las Fuerzas Armadas
   
 *  Research Engineer
-  * Escuela Politecnica Superior de Chimborazo
+  ** Escuela Politecnica Superior de Chimborazo
 
 Skills
 ======
@@ -35,12 +35,20 @@ Skills
 * Pytorch
 * Ros
 * Open CV
+* Acados
 
 Simulators
 ======
 * Webots
 * MuJoCo
 
+Reviewer
+======
+* Ecuador Technical Chapters Meeting 2022
+* 21st European Control Conference (ECC) 
+* Modeling, Estimation and Control Conference (MECC) 2023
+* Ecuador Technical Chapters Meeting 2023
+* Springer Nonlinear Dynamics Journal
 
 Publications
 ======
@@ -54,8 +62,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
