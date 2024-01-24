@@ -30,7 +30,7 @@ I started delving into Reinforcement Learning, a subfield of machine learning th
 Present
 ======
 <p style='text-align: justify;'> 
-Equipped with a strong foundation in control theory and growing expertise in machine learning, I embarked on my doctoral research journey, focusing on developing novel NMPC algorithms that leveraged RL techniques for optimization and decision-making
+Equipped with a strong foundation in control theory and growing expertise in machine learning, I embarked on my own research journey, focusing on developing novel NMPC algorithms that leveraged RL techniques for optimization and decision-making
  </p>
 
  Projects and interest
